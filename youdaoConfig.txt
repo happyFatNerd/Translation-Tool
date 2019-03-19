@@ -1,0 +1,12 @@
+i: halo
+from: AUTO
+to: AUTO
+smartresult: dict
+client: fanyideskweb
+salt: 15528885689381
+sign: 8d9f9f5f2fcfbee8a941469f8a598e43
+ts: 1552888568938
+bv: 33a62fdcf6913d2da91495dad54778d1
+doctype: json
+version: 2.1
+keyfrom: fanyi.web
